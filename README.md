@@ -1,2 +1,2 @@
 # tanium-sensors
-Tanium sensors 
+Various Tanium sensors for OSSEC HIDS
